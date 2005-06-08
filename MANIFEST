@@ -13,3 +13,4 @@ Result/Object/Makefile.PL
 t/query.t
 t/result.t
 t/object.t
+META.yml                                 Module meta-data (added by MakeMaker)
